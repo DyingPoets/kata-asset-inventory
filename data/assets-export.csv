@@ -1,0 +1,13 @@
+Asset ID,Type,Brand,Model,Serial Number,Assigned To,Department,Purchase Date,Warranty Expiry,Status,Notes
+A-001,Laptop,Apple,MacBook Pro 14",C02X1234567,sarah.jones@company.com,Engineering,2022-03-15,2025-03-15,Active,
+A-002,Laptop,Apple,MacBook Pro 14",C02X1234567,sarah.jones@company.com,Engineering,2022-03-15,2025-03-15,Active,DUPLICATE?
+A-003,Laptop,Dell,XPS 15,5CG1234567,michael.chen@company.com,Product,2021-11-01,2024-11-01,Active,Warranty expired
+A-004,Monitor,LG,27UK850,108NZMB1234,michael.chen@company.com,Product,2021-11-01,,Active,
+A-005,Laptop,Apple,MacBook Air M2,,contractor-bob,IT,2023-06-01,2026-06-01,Active,Contractor - no employee ID
+A-006,Laptop,Lenovo,ThinkPad X1,,,,2020-01-15,2023-01-15,?,Left company March 2023
+A-007,Server,Dell,PowerEdge R740,ABCD1234,IT Infrastructure,IT,2019-08-01,2022-08-01,Active,Data center rack 3
+A-008,Laptop,Apple,MacBook Pro 13",C02Y5678901,priya.sharma@company.com,Design,2022-09-10,2025-09-10,Active,
+A-009,Keyboard,Apple,Magic Keyboard,,priya.sharma@company.com,Design,2022-09-10,,Active,
+A-010,Mouse,Logitech,MX Master 3,,priya.sharma@company.com,Design,2022-09-10,,Active,
+A-011,Laptop,HP,EliteBook 840,5CG2345678,,HR,2020-05-01,2023-05-01,Unassigned,Prev: james.wilson - left 14 months ago
+A-012,Laptop,Apple,MacBook Pro 14",C02Z9012345,alex.rodriguez@company.com,Sales,2023-01-20,2026-01-20,Active,
